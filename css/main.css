@@ -1,0 +1,130 @@
+body {
+  background: #F9F1F7;
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Proza Libre', sans-serif;
+}
+
+main {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+}
+#wrap {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.full-width {
+  overflow: auto;
+  width: 1200px;
+}
+
+.half-width {
+  float:left;
+  overflow: auto;
+  height: 400px;
+  width:600px;
+}
+
+header {
+    background-image: url(../img/pink-pens.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+    width: 1200px;
+    overflow: auto;
+    margin: 0 auto;
+}
+
+header h1 {
+  font-size: 60px;
+  color: #2A1E5C;
+  text-align: center;
+  margin-top: 475px;
+  margin-left: 100px;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+header h2 {
+  font-size: 30px;
+  color: #2A1E5C;
+  margin-left: 110px;
+  font-family: 'Proza Libre', sans-serif;
+}
+
+#Work {
+  background: #F9F1F7;
+  height: 1200px;
+}
+
+#Work h2 {
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 40px;
+}
+
+#Work img {
+  height: 300px;
+  width: 500px;
+  background: #F9F1F7;
+  margin-left: 30px;
+}
+
+#Work div {
+  background: #F9F1F7;
+  color: #2A1E5C;
+}
+
+#About {
+  height: 450px;
+}
+
+#About img {
+  height: 300px;
+  width: 500px;
+  background: #EBADBB;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+#About div {
+  background:#EBADBB;
+}
+
+#About h2{
+  color: #2A1E5C;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+#About p {
+  color: #2A1E5C;
+  font-family: "Proza Libre", sans-serif;
+}
+
+#Contact div {
+  background: #C4456A;
+  height: 125px;
+  padding-bottom: 60px;
+}
+
+#Contact h2 {
+  text-align: center;
+  color: #2A1E5C;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 30px;
+}
+
+#Contact h3 {
+  color: #2A1E5C;
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 25px;
+}
+
+#Contact p {
+  color: #2A1E5C;
+  text-align: center;
+}
